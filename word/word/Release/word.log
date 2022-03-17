@@ -1,0 +1,7 @@
+﻿  word.cpp
+C:\Users\админ\source\repos\word\word\word.cpp(37,21): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 1179 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  word.vcxproj -> C:\Users\админ\source\repos\word\Release\word.exe

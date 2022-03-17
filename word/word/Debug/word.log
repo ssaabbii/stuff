@@ -1,0 +1,3 @@
+﻿  word.cpp
+C:\Users\админ\source\repos\word\word\word.cpp(37,21): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+  word.vcxproj -> C:\Users\админ\source\repos\word\Debug\word.exe

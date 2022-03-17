@@ -1,0 +1,2 @@
+﻿  ex_time.c
+C:\Users\админ\source\repos\Project16\Project16\ex_time.c(18,4): error C4996: 'putenv': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _putenv. See online help for details.
