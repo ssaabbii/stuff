@@ -1,0 +1,3 @@
+﻿  Source.c
+c:\users\админ\source\repos\project4\project4\source.c(29): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Project4.vcxproj -> C:\Users\админ\source\repos\Project4\Debug\Project4.exe
