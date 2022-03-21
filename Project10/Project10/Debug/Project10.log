@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\админ\source\repos\Project10\Project10\main.c(11,2): warning C4013: isPrime: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\админ\source\repos\Project10\Project10\main.c(25,2): warning C4013: findNextPrime: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\админ\source\repos\Project10\Project10\main.c(36,2): warning C4013: getPrimesCount: нет определения; предполагается "extern" с возвратом типа "int"
+  primes.c
+  Создание кода...
+  Project10.vcxproj -> C:\Users\админ\source\repos\Project10\Debug\Project10.exe
