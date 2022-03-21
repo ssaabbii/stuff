@@ -1,0 +1,7 @@
+﻿  Player.h
+C:\Users\админ\source\repos\bulls_and_cows\bulls_and_cows\Model.h(34,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  main.cpp
+C:\Users\админ\source\repos\bulls_and_cows\bulls_and_cows\Model.h(34,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\админ\source\repos\bulls_and_cows\bulls_and_cows\Bot.h(14,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  bulls_and_cows.vcxproj -> C:\Users\админ\source\repos\bulls_and_cows\Debug\bulls_and_cows.exe
