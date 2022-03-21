@@ -1,0 +1,2 @@
+﻿task2_2d.obj : error LNK2005: _main уже определен в par2.obj
+C:\Users\админ\source\repos\par2\Debug\par2.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более

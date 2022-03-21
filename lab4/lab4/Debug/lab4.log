@@ -1,0 +1,10 @@
+﻿  bot_player_mode.cpp
+  controller.cpp
+  game.cpp
+  game_model.cpp
+  game_view.cpp
+  human_player_model.cpp
+  main.cpp
+  observable_model.cpp
+  Создание кода...
+  lab4.vcxproj -> C:\Users\админ\source\repos\lab4\Debug\lab4.exe
