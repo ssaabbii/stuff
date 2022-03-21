@@ -1,0 +1,4 @@
+﻿  integerset.c
+C:\Users\админ\source\repos\Project1_4\Project1_4\integerset.c(21,25): warning C4047: =: "int *" отличается по уровням косвенного обращения от "int"
+C:\Users\админ\source\repos\Project1_4\Project1_4\integerset.c(47,23): warning C4047: ==: "int" отличается по уровням косвенного обращения от "int *"
+  Project1_4.vcxproj -> C:\Users\админ\source\repos\Project1_4\Debug\Project1_4.exe
